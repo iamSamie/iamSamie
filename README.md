@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-<h3 align="left">Hello, I'm Semyon Konevskiyt</h3>
+<h3 align="left">Hello, I'm Semyon Konevskiy</h3>
 <h3 align="left">Frontend Developer | Rust Enthusiast</h3>
 
 ---
